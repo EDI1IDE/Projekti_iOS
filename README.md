@@ -18,7 +18,8 @@
 
 ### Pamja e app-it
 
-![image1](https://i.imgur.com/q5HgRzJ.png) | ![image1](https://i.imgur.com/DDHjAoM.png) | ![image1](https://i.imgur.com/rgyOGsY.png)
+:-------------------------:|:-------------------------:|:-------------------------:
+![image1](https://i.imgur.com/q5HgRzJ.png)  |  ![image1](https://i.imgur.com/DDHjAoM.png)  |  ![image1](https://i.imgur.com/rgyOGsY.png)
 
 #### Kornizat dhe libraritë e përdorura
 
